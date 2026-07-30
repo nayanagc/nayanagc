@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nayana G C
+#  Hi, I'm Nayana G C
 
-### 🚀 AI & Full-Stack Developer | Information Science Engineering Student
+###  AI & Full-Stack Developer | Information Science Engineering Student
 
 I’m an Information Science Engineering student passionate about **Artificial Intelligence, Generative AI, Data Science, and Full-Stack Development**. I enjoy turning ideas into practical, user-focused applications and continuously improving my problem-solving and development skills.
 
