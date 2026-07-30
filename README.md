@@ -109,34 +109,6 @@ Worked with data preprocessing, exploratory data analysis, machine learning pipe
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayanagc\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayanagc\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🌱 Currently Learning
-
-```text
-Generative AI
-      ↓
-LLMs → RAG → AI Agents → LangGraph
-      ↓
-AI Engineering
-
-Data Science
-      ↓
-Python → Pandas → Machine Learning → Data Analysis
-
-Full Stack
-      ↓
-React → Node.js → MongoDB → PostgreSQL
-```
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning, building, collaborating, and exploring new opportunities.
