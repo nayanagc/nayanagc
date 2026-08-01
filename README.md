@@ -1,4 +1,4 @@
-#  Hi, I'm Nayana G C
+##  Hi, I'm Nayana G C
 
 ###  AI & Full-Stack Developer | Information Science Engineering Student
 
